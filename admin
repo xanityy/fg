@@ -1,0 +1,6 @@
+ModIDS = {
+   2477035388,
+}
+
+local success,err = pcall(swagnames)
+return ModIDS
